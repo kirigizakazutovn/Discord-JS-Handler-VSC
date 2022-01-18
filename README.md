@@ -35,11 +35,17 @@ Hoặc:
 https://github.dev
 ```
 # 1.2 - Node.js là gì
-NodeJS là một nền tảng được xây dựng trên “V8 Javascript engine” được viết bằng c++ và Javascript. Nền tảng này được phát triển bởi Ryan Lienhart Dahl vào năm 2009.
+NodeJS là một nền tảng được xây dựng trên “V8 Javascript engine” được viết bằng `C++` và `Javascript`. Nền tảng này được phát triển bởi Ryan Lienhart Dahl vào năm 2009.
 
-Node.js ra đời khi các developer đời đầu của JavaScript mở rộng nó từ một thứ bạn chỉ chạy được trên trình duyệt thành một thứ bạn có thể chạy trên máy của mình dưới dạng ứng dụng độc lập.
+Node.js` ra đời khi các developer đời đầu của JavaScript mở rộng nó từ một thứ bạn chỉ chạy được trên trình duyệt thành một thứ bạn có thể chạy trên máy của mình dưới dạng ứng dụng độc lập.
 
 Giờ đây bạn có thể làm được nhiều thứ với JavaScript hơn là chỉ tương tác với các website.
+
+Tải Nodejs tại:
+
+```
+https://nodejs.org/en/
+```
 
 
 
